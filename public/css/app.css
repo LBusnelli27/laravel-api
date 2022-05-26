@@ -12178,3 +12178,55 @@ fieldset:disabled .btn {
   }
 }
 
+.guest-home-container {
+  background-color: #fff;
+  color: #636b6f;
+  font-family: "Nunito", sans-serif;
+  font-weight: 200;
+  height: 100vh;
+  margin: 0;
+}
+
+.guest-home-container .full-height {
+  height: 100vh;
+}
+
+.guest-home-container .flex-center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.guest-home-container .position-ref {
+  position: relative;
+}
+
+.guest-home-container .top-right {
+  position: absolute;
+  right: 10px;
+  top: 18px;
+}
+
+.guest-home-container .content {
+  text-align: center;
+}
+
+.guest-home-container .title {
+  font-size: 84px;
+  margin-top: 20rem;
+}
+
+.guest-home-container .links > a {
+  color: #636b6f;
+  padding: 0 25px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.guest-home-container .m-b-md {
+  margin-bottom: 30px;
+}
+
